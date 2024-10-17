@@ -1,0 +1,40 @@
+body {
+    background-color: #fbd59b;
+}
+
+.header {
+    font-size: 30px;
+}
+
+.navigation {
+    font-style: italic;
+}
+
+.main-content {
+    color: #E610E3;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.article {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: bold;
+    background-color: #E69810;
+    height:80%;
+    width:70%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+.footer {
+    font-size: 20px;
+    color: #10D3E6;
+}
+
+.copyright {
+    color: silver;
+}
+
+.perry {
+    font-size: 40px;
+}
